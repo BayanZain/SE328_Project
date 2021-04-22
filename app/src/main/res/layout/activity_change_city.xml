@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/weatherback"
+    android:orientation="vertical"
+    tools:context=".ChangeCity">
+
+    <TextView
+        android:id="@+id/textView20"
+        android:layout_width="match_parent"
+        android:layout_height="66dp"
+        android:fontFamily="@font/aclonica"
+        android:gravity="center"
+        android:text="Change City"
+        android:textColor="@color/white"
+        android:textSize="36sp" />
+
+    <TextView
+        android:id="@+id/textView33"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="@color/white"
+        android:layout_marginStart="30dp"
+        android:layout_marginTop="40dp"
+        android:text="Insert city"
+        android:textSize="28sp" />
+
+    <EditText
+        android:id="@+id/city"
+        android:layout_width="331dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="30dp"
+        android:ems="10"
+        android:inputType="text"
+        android:textColor="@color/white"
+        android:textSize="18sp" />
+
+    <Button
+        android:id="@+id/change"
+        android:layout_width="193dp"
+        android:layout_height="60dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="50dp"
+        android:backgroundTint="#373737"
+        android:text="Change city"
+        android:textSize="18sp" />
+
+    <Button
+        android:id="@+id/defaultCity"
+        android:layout_width="267dp"
+        android:layout_height="74dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="20dp"
+        android:backgroundTint="#373737"
+        android:text="Choose default city (athens)"
+        android:textSize="18sp" />
+
+
+</LinearLayout>

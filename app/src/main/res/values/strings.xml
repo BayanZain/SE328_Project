@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">SE328_Project</string>
+    <string name="select">Select</string>
+    <string-array name="options">
+        <item>userId</item>
+        <item>firstName</item>
+        <item>lastName</item>
+        <item>phoneNumber</item>
+        <item>emailAddress</item>
+    </string-array>
+    <string-array name="update">
+        <item>firstName</item>
+        <item>lastName</item>
+        <item>phoneNumber</item>
+        <item>emailAddress</item>
+    </string-array>
+</resources>

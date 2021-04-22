@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "304733724146",
+    "project_id": "bayan-al-shikh-zien-181237",
+    "storage_bucket": "bayan-al-shikh-zien-181237.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:304733724146:android:0add47218f992773dddf6b",
+        "android_client_info": {
+          "package_name": "com.example.se328_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "304733724146-2cs809t53jffmmg9hcp1fun4lohc8fbo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAn5zg4lW9tNAc4qBdRsJoMsts7-y3_nVI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "304733724146-2cs809t53jffmmg9hcp1fun4lohc8fbo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
